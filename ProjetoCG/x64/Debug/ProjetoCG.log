@@ -1,0 +1,33 @@
+﻿  Projeto.cpp
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(90,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(256,5): warning C4551: function call missing argument list
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(267,9): warning C4551: function call missing argument list
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(330,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(345,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(353,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(361,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(369,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(408,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(416,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(424,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(432,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(515,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(522,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(530,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(538,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(546,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(560,25): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(630,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(638,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(646,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(654,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(662,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(672,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(672,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(674,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(674,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(1037,15): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(1037,46): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(1070,29): warning C4805: '==': unsafe mix of type 'GameState' and type 'bool' in operation
+C:\Users\tomas\source\repos\ProjetoCG\ProjetoCG\Projeto.cpp(1070,26): warning C4553: '==': result of expression not used; did you intend '='?
+  ProjetoCG.vcxproj -> C:\Users\tomas\source\repos\ProjetoCG\x64\Debug\ProjetoCG.exe
