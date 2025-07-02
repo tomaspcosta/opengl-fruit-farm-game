@@ -7,7 +7,6 @@
 3.  [Gameplay Summary](#3-gameplay-summary)  
 4.  [Features](#4-features)  
 5.  [How to Run](#5-how-to-run)  
-6.  [Authors](#6-authors)
 
 ---
 
